@@ -2,5 +2,5 @@
 * [General info](#general-info)
 
 ## General info
-This is a lab
+This is DevOps lab2.
 
